@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\movement.cs" />
+     <Compile Include="Assets\test\AsteroidSpawn.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/christian/GAM2002/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
